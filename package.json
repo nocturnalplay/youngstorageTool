@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "cli-spinners": "^2.6.1",
+    "commander": "^8.3.0"
+  },
+  "name": "1.tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "bin": {
+    "ysage":"./index.js"
+  },
+  "license": "ISC",
+  "description": ""
+}
